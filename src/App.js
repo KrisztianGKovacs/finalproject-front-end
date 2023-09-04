@@ -9,9 +9,9 @@ import ImageLinkForm from './component/imagelinkform/imagelinkform';
 import Rank from './component/rank/rank';
 import FaceRecognize from './component/facerecognize/facerecognize';
 
-const PAT = 'e3e2e57c46984160bfd4a496e0abe5ec';
+const PAT = '';
 
-const USER_ID = 'chrissmith';       
+const USER_ID = '';       
 const APP_ID = 'test';
 
 const MODEL_ID = 'face-detection';
